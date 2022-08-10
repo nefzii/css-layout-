@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    width: 80vw;
+    align-items: center;
+}
+main-menu{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    display: block;
+    margin: 0px auto;
+   }
+   h1 {
+	color: #00b39b;
+	font-size: 2.125rem;
+	text-align: center;}
+    h1 {
+        margin: 1em 0;
+        font-family: Work Sans,Arial,sans-serif;
+        font-weight: 300;
+        letter-spacing: -.3px;
+
+
+
+    }
+    .paragraph{
+        display: flex;
+        justify-content: space-between;
+        margin: 150px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+
+    }
+    .prg{
+        padding: 25px;
+        font-size: 20px;
+        color: black;
+    }
+        
+li {
+    display: inline;
+  }
+  .main-menu {
+    text-align: right;
+  }
+  .services{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 180px;
+    margin-left: 180px;
+    margin-bottom: 20px;
+  }
+
+  
+
+    
+  
+  .country-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+
+
+
+  .office{
+    padding: 15px;
+    text-align: center;
+    margin: 10px;
+    font-weight: 700;
+
+  }
